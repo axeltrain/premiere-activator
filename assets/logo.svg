@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" fill="#0E0E12"/>
+  <g transform="translate(128 128) rotate(-8) translate(-128 -128)">
+    <path d="M 48 74 L 208 74 L 208 182 L 48 182 Z" fill="none" stroke="#E8E4DA" stroke-width="3"/>
+    <g fill="#E8E4DA">
+      <rect x="56" y="82" width="10" height="10"/>
+      <rect x="76" y="82" width="10" height="10"/>
+      <rect x="96" y="82" width="10" height="10"/>
+      <rect x="116" y="82" width="10" height="10"/>
+      <rect x="136" y="82" width="10" height="10"/>
+      <rect x="156" y="82" width="10" height="10"/>
+      <rect x="176" y="82" width="10" height="10"/>
+      <rect x="56" y="164" width="10" height="10"/>
+      <rect x="76" y="164" width="10" height="10"/>
+      <rect x="96" y="164" width="10" height="10"/>
+      <rect x="116" y="164" width="10" height="10"/>
+      <rect x="136" y="164" width="10" height="10"/>
+      <rect x="156" y="164" width="10" height="10"/>
+      <rect x="176" y="164" width="10" height="10"/>
+    </g>
+    <path d="M 48 74 L 70 96 L 70 160 L 48 182 Z" fill="#C8452B"/>
+    <path d="M 186 96 L 208 74 L 208 182 L 186 160 Z" fill="#C8452B"/>
+    <path d="M 70 96 L 90 116 L 90 140 L 70 160 Z" fill="#E8E4DA" opacity="0.15"/>
+    <path d="M 186 96 L 166 116 L 166 140 L 186 160 Z" fill="#E8E4DA" opacity="0.15"/>
+    <path d="M 128 100 C 116 100 106 110 106 122 C 106 130 110 137 117 141 L 117 156 L 139 156 L 139 141 C 146 137 150 130 150 122 C 150 110 140 100 128 100 Z" fill="#4FD1C5" stroke="#0E0E12" stroke-width="3"/>
+    <path d="M 128 114 C 123 114 119 118 119 123 C 119 127 121 130 124 131 L 124 140 L 132 140 L 132 131 C 135 130 137 127 137 123 C 137 118 133 114 128 114 Z" fill="#0E0E12"/>
+    <rect x="124" y="138" width="8" height="10" fill="#0E0E12"/>
+    <path d="M 70 96 L 90 116 L 90 140 L 70 160 Z" fill="none" stroke="#E8E4DA" stroke-width="1.5" opacity="0.5"/>
+    <path d="M 186 96 L 166 116 L 166 140 L 186 160 Z" fill="none" stroke="#E8E4DA" stroke-width="1.5" opacity="0.5"/>
+    <line x1="70" y1="96" x2="90" y2="116" stroke="#E8E4DA" stroke-width="1.5"/>
+    <line x1="70" y1="160" x2="90" y2="140" stroke="#E8E4DA" stroke-width="1.5"/>
+    <line x1="186" y1="96" x2="166" y2="116" stroke="#E8E4DA" stroke-width="1.5"/>
+    <line x1="186" y1="160" x2="166" y2="140" stroke="#E8E4DA" stroke-width="1.5"/>
+  </g>
+  <text x="128" y="230" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="6" fill="#E8E4DA" opacity="0.6">PREMIERE-ACTIVATOR</text>
+</svg>
